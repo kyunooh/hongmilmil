@@ -1,0 +1,9 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+#map {
+	margin : auto;
+	text-align:right;
+}
+#tablemap {
+	margin : auto;
+	text-align: center;
+}
