@@ -22,3 +22,5 @@ Static Web Project 입니다.
 깃허브 홍밀밀 프로젝트 :  https://github.com/kyunooh/hongmilmil
 
 포스팅 번호 http://jellyms.kr/711
+
+오픈소스이지만 이미지에 대한 저작권은 홍밀밀에 있습니다. 소스에 포함된 이미지에 대한 배포 및 도용을 금합니다.
